@@ -74,3 +74,4 @@ Art line for 2025-06-12T00:00:00.000Z
 Art line for 2025-06-26T00:00:00.000Z
 Art line for 2025-07-17T00:00:00.000Z
 Art line for 2025-07-24T00:00:00.000Z
+Art line for 2025-08-21T00:00:00.000Z
